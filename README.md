@@ -12,9 +12,3 @@ Este repositório reúne soluções minhas para problemas do LeetCode. O objetiv
 - praticar algoritmos e estruturas de dados;
 - documentar abordagens e complexidade;
 - ter um histórico de soluções reutilizáveis e fáceis de revisar.
-
----
-
-## Estrutura do repositório
-Sugestão de organização (o repositório já contém `LeetCode75` como ponto de partida):
-
